@@ -2,7 +2,6 @@ from funcoes import *
 
 email = {"caiodm088":["caiodm088@gmail.com", "123456"], "rm85590":["rm85590@fiap.com.br", "password"]}
 
-
 while True:
     print("\nCadastrar vazamento(1) ")
     print("Verificar vazamentos cadastrados(2) ")
